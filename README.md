@@ -83,7 +83,7 @@ Cadastro completo (salvar, editar, excluir, pesquisar e listar) de:
    ```java
    private final String URL = "jdbc:mysql://localhost:3306/logistica";
    private final String USER = "root";
-   private final String SENHA = "root";
+   private final String SENHA = "sua_senha";
    ```
 
    Ajuste usuário e senha se o seu MySQL for diferente.
